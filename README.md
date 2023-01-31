@@ -28,3 +28,5 @@ O projeto foi desenvolvido para dar os primeiros passos no flutter com o auxíli
 O contador funciona de forma que, ao atingir o limite máximo de pessoas no estabelecimento o botão que conta a entrada das pessoas é dasabilitado. Assim como, quando o estabelecimento está vazio o botão de saída é desabilitado.
 
 O estabeleciemnto em questão conta com uma capacidade máxima de 20 pessoas.
+
+![Captura de tela de 2023-01-30 23-39-37](https://user-images.githubusercontent.com/107438747/215649619-9dd01969-e99d-476e-ac53-e59e88c8cfc2.png)
