@@ -25,7 +25,7 @@ O projeto foi desenvolvido para dar os primeiros passos no flutter com o auxíli
 
 ## FUNCIONAMENTO DO APP
 
-O contador funciona de forma que, ao atingir o limite máximo de pessoas no estabelecimento o botão que conta a entrada das pessoas é dasabilitado. Assim como, quando o estabelecimento está vazio o botão de saída é desabilitado.
+A intenção do APP é fazer um contador de clientes para uma sorveteria. O contador deve funcionar de forma que, ao atingir o limite máximo de pessoas no estabelecimento o botão que conta a entrada das pessoas é dasabilitado. Assim como, quando o estabelecimento está vazio o botão de saída é desabilitado.
 
 O estabeleciemnto em questão conta com uma capacidade máxima de 20 pessoas.
 
